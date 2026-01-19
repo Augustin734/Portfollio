@@ -7,7 +7,7 @@ import docker from '../images/docker.JPG';
 import node from '../images/node.JPG';
 import pg from '../images/PG.JPG';
 
-import avengers from'../images/avengers.JPG/';
+import avengers from'../images/avengers.JPG';
 import lebronjames from '../images/lebronjames.JPG';
 import thisisfine from '../images/thisisfine.JPG';
 import handshake from '../images/handshake.JPG';

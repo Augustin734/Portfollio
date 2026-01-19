@@ -1,5 +1,3 @@
-import epitech from '../images/epitech.JPG';
-
 function Formations () {
     return (
         <div>
